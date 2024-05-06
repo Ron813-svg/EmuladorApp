@@ -9,7 +9,9 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.emulador_20230113_rony.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
+class
+
+MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
 
